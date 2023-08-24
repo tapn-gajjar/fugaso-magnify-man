@@ -1,0 +1,7 @@
+Random Star.png
+size:30,31
+filter:Linear,Linear
+scale:0.5
+Star
+bounds:2,2,26,27
+offsets:3,0,29,29

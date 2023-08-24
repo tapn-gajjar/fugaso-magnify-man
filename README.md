@@ -1,0 +1,1 @@
+# fugaso-magnify-man
